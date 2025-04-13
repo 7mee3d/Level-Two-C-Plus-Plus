@@ -55,7 +55,3 @@ To run the code examples, you need:
 ```bash
    g++ filename.cpp -o output
    ./output
-
-
-
-
