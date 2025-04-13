@@ -46,3 +46,14 @@ To run the code examples, you need:
 1. Clone the repository:
    ```bash
    git clone https://github.com/7mee3d/Level-Two-C-Plus-Plus.git
+
+2. Navigate into the project directory:
+```bash
+      cd Level-Two-C-Plus-Plus
+
+3. Open any .cpp file with your preferred editor and compile it using your compiler:
+```bash
+   g++ filename.cpp -o output
+   ./output
+
+
