@@ -17,7 +17,7 @@ This repository covers a wide range of intermediate to advanced C++ topics, incl
 - Advanced usage of functions
 - Range-based `for` loops
 - The `string` class and string manipulation
-- Output formatting using `cout` and `printf`
+- Output formatting using `setw` and `printf`
 - Creating your own custom library
 
 ---
@@ -53,5 +53,5 @@ To run the code examples, you need:
 
 3. Open any .cpp file with your preferred editor and compile it using your compiler:
 ```bash
-   g++ filename.cpp -o output
-   ./output
+      g++ filename.cpp -o output
+      ./output
