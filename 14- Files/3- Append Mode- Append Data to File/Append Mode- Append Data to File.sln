@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Append Mode- Append Data to File", "Append Mode- Append Data to File\Append Mode- Append Data to File.vcxproj", "{673D660F-4432-49C7-8217-5E02C92C5C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673D660F-4432-49C7-8217-5E02C92C5C39}.Debug|x64.ActiveCfg = Debug|x64
+		{673D660F-4432-49C7-8217-5E02C92C5C39}.Debug|x64.Build.0 = Debug|x64
+		{673D660F-4432-49C7-8217-5E02C92C5C39}.Debug|x86.ActiveCfg = Debug|Win32
+		{673D660F-4432-49C7-8217-5E02C92C5C39}.Debug|x86.Build.0 = Debug|Win32
+		{673D660F-4432-49C7-8217-5E02C92C5C39}.Release|x64.ActiveCfg = Release|x64
+		{673D660F-4432-49C7-8217-5E02C92C5C39}.Release|x64.Build.0 = Release|x64
+		{673D660F-4432-49C7-8217-5E02C92C5C39}.Release|x86.ActiveCfg = Release|Win32
+		{673D660F-4432-49C7-8217-5E02C92C5C39}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38993593-6BB4-4206-A2E8-036D5428F17B}
+	EndGlobalSection
+EndGlobal

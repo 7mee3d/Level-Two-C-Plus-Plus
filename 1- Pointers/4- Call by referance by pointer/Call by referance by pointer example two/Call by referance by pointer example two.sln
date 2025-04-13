@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Call by referance by pointer example two", "Call by referance by pointer example two\Call by referance by pointer example two.vcxproj", "{518D86FD-50F7-40FE-A202-C0B819FC4AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518D86FD-50F7-40FE-A202-C0B819FC4AC2}.Debug|x64.ActiveCfg = Debug|x64
+		{518D86FD-50F7-40FE-A202-C0B819FC4AC2}.Debug|x64.Build.0 = Debug|x64
+		{518D86FD-50F7-40FE-A202-C0B819FC4AC2}.Debug|x86.ActiveCfg = Debug|Win32
+		{518D86FD-50F7-40FE-A202-C0B819FC4AC2}.Debug|x86.Build.0 = Debug|Win32
+		{518D86FD-50F7-40FE-A202-C0B819FC4AC2}.Release|x64.ActiveCfg = Release|x64
+		{518D86FD-50F7-40FE-A202-C0B819FC4AC2}.Release|x64.Build.0 = Release|x64
+		{518D86FD-50F7-40FE-A202-C0B819FC4AC2}.Release|x86.ActiveCfg = Release|Win32
+		{518D86FD-50F7-40FE-A202-C0B819FC4AC2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79307838-0EB4-43F3-9889-7AD69FC4B144}
+	EndGlobalSection
+EndGlobal
