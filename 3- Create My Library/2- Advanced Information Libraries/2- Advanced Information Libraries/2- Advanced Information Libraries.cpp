@@ -1,14 +1,23 @@
-// 2- Advanced Information Libraries.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 
 #include <iostream>
 
-// Include out fie in derectory file ( project ) using " NameFuke .h " 
+// Include out fie in derectory file ( project ) using " NameFile .h " 
 #include "ReadNumber.h"
+
 using namespace std; 
+
+//Using namespace element one in header file 
 using ReadNum::readNumberPositive;
+
+
+// using all function in namespace (Header file) 
+using namespace ReadNum; 
+
+
 
 int main()
 {
+
+	// using function in header file 
 	readNumberPositive("Enter the Number");
 }

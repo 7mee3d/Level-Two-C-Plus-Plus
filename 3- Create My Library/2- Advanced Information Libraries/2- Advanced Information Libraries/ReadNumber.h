@@ -63,7 +63,10 @@ The compiler should not include this file more than once in the calling file
 
 */
 
+
 namespace ReadNum {
+
+	// Function read number in user ( cheak is number or not ) ( is not repeat input the number ) 
 
 	int readNumberPositive(std::string const message) {
 
@@ -84,6 +87,7 @@ namespace ReadNum {
 			}
 		} while (number < 0); 
 
+		// return the number after input correct the user 
 		return number; 
 	}
 
